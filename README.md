@@ -1,7 +1,5 @@
 # Smartty - IoT Device Management Dashboard
 
-![Smartty Dashboard Screenshot](frontend/public/assets/what-is-the-internet-of-things-iot.png)
-*(You should replace the image above with an actual screenshot of your running application!)*
 
 ## About The Project
 
